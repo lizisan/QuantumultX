@@ -2,4 +2,6 @@
 
 ## 2021/4/3 进行如下变动
 
+```properties
 开始创建QuantumultX仓库
+```
