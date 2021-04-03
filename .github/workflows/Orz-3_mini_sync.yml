@@ -30,7 +30,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync 6Svip120apk69-gitee_q8qsTAUA_cThxc1RBVUE
+      - name: sync Orz-3-mini
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
