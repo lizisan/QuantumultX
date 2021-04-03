@@ -35,7 +35,7 @@ jobs:
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
-          source_repo: "https://github.com/Orz-3/ QuantumultX.git"
+          source_repo: "https://github.com/Orz-3/QuantumultX.git"
           source_branch: "master"
           destination_branch: "Orz-3_QuantumultX"
           github_token: ${{ secrets.PAT }}
