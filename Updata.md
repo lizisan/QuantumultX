@@ -1,5 +1,17 @@
 # 以下是历史更新记录
 
-## 2021/4/3 进行如下变动
+## 2021/4/4 变动如下
 
-开始创建QuantumultX仓库
+* 更新README内容
+
+* 修改[filter_remote]和[rewrite_remote]模块中部分[DivineEngine](https://github.com/DivineEngine)规则修改为[blackmatrix7](https://github.com/blackmatrix7)规则
+
+* 在[rewrite_remote]中添加[zwf234](https://github.com/zwf234)的rewrite规则
+
+-----------
+
+## 2021/4/3 变动如下
+
+* 开始创建QuantumultX仓库
+
+* 以[Orz-3](https://github.com/Orz-3)的小白配置为基础，结合[sngxpro](https://github.com/sngxpro)的懒人配置进行修改
