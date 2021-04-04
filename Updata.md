@@ -8,6 +8,8 @@
 
 * 在[rewrite_remote]中添加[zwf234](https://github.com/zwf234)的rewrite规则
 
+* 添加Task文件夹，汇总一些作者的Task Gallery
+
 -----------
 
 ## 2021/4/3 变动如下
