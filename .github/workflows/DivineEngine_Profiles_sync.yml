@@ -1,0 +1,38 @@
+## DivineEngine
+## github地址 https://github.com/DivineEngine
+## TG频道地址  https://t.me/DivineEngine
+## TG交流群   
+ 
+## 作者名         DivineEngine
+## 作者库名       Profiles
+## 作者分支名     master     
+## 同步分支名     DivineEngine_Profiles
+
+name: DivineEngine_Profiles_sync
+on:
+  schedule:
+    - cron: '1 */3 * * *'
+  workflow_dispatch:
+  watch:
+    types: started
+  repository_dispatch:
+    types: sync-DivineEngine-Profiles
+jobs:
+  repo-sync:
+    env:
+      PAT: ${{ secrets.PAT }} 
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: sync DivineEngine-Profiles
+        uses: repo-sync/github-sync@v2
+        if: env.PAT
+        with:
+          source_repo: "https://github.com/DivineEngine/Profiles.git"
+          source_branch: "master"
+          destination_branch: "DivineEngine_Profiles"
+          github_token: ${{ secrets.PAT }}
