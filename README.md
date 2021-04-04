@@ -1,7 +1,5 @@
 # Quantumult X  —— A Powerful Network Tool
 
--------
-
 ## Quantumult X 教程
 
 &nbsp;&nbsp;&nbsp;下面是搜集的一些Quantumult X 教程
