@@ -63,6 +63,10 @@ https://github.com/lizisan/QuantumultX/blob/main/Updata.md
 
   * [DivineEngine](https://github.com/DivineEngine)
   
+  * [blackmatrix7](https://github.com/blackmatrix7)
+  
+  * [zwf234](https://github.com/zwf234)
+  
   * 由于参考或借用上述作者内容而导致直接或间接引用的各位作者大大
 
 
