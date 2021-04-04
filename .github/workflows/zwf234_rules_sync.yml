@@ -1,0 +1,42 @@
+## zwf234
+## github地址  https://github.com/zwf234
+## TG频道地址  https://t.me/qixinscience
+## TG交流群  https://t.me/qixinkeji
+## boxjs链接
+ 
+## 作者名         zwf234
+## 作者库名       rules
+## 作者分支名     master
+## 同步分支名     zwf234_rules
+
+
+
+
+name: zwf234_rules_sync
+on:
+  schedule:
+    - cron: '1 */3 * * *'
+  workflow_dispatch:
+  watch:
+    types: started
+  repository_dispatch:
+    types: sync-zwf234-rules
+jobs:
+  repo-sync:
+    env:
+      PAT: ${{ secrets.PAT }} 
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: sync zwf234-rules
+        uses: repo-sync/github-sync@v2
+        if: env.PAT
+        with:
+          source_repo: "https://github.com/zwf234/rules.git"
+          source_branch: "master"
+          destination_branch: "zwf234_rules"
+          github_token: ${{ secrets.PAT }}
