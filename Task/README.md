@@ -18,7 +18,7 @@
 
 6.刷新后使用
 
-### 订阅地址
+### 作者地址
 
 * [Orz-3](https://github.com/Orz-3/QuantumultX/tree/master/Task)
 
