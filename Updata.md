@@ -8,6 +8,8 @@
 
 * 增加去YouTube广告重写远程订阅
 
+* 添加Rewrite文件夹，汇总一些作者的Rule和Cookie0地址
+
 ------------
 
 ## 2021/4/4 变动如下
@@ -18,7 +20,7 @@
 
 * 在[rewrite_remote]中添加[zwf234](https://github.com/zwf234)的rewrite规则
 
-* 添加Task文件夹，汇总一些作者的Task Gallery
+* 添加Task文件夹，汇总一些作者的Task Gallery地址
 
 -----------
 
