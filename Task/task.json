@@ -211,12 +211,8 @@
         "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族（手机可能不支持，查看阅读说明）, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X004.png, enabled=true",
         "0 0/10 * * * ? https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/duokandian.js, tag=多看点ziye版(查看脚本学用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
         "0 0/10 0,1,2 * * ? https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/xiaole.js, tag=小乐优券微信小程序，img-url=https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.js，enabled=true",
-	    "*/30 * * * * https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/iboxpay.js, tag=笑谱ziye版(查看脚本学用法，请挂全局用方法一), img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",  
+	"*/30 * * * * https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/iboxpay.js, tag=笑谱ziye版(查看脚本学用法，请挂全局用方法一), img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",  
         "0 */10 * * * ? https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/QQread.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/QQRead.png, enabled=true",
-        
-        "1,30 10-20 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js, tag=燃旅视频, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg, enabled=true",        
-        "0 8 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js, tag=TT语音打卡, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/orthers/1.jpg, enabled=true",
-        
         
     ]
 }  
