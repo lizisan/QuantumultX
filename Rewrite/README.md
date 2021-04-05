@@ -12,4 +12,14 @@
   
 ### 注意
 
- 若自行添加，请添加后刷新使用
+若您自行添加，请在添加完成后刷新使用
+ 
+### 作者地址
+
+* [Orz-3](https://github.com/Orz-3/QuantumultX/blob/master/JS.conf)
+
+* [sngxpro](https://github.com/sngxpro/QuanX/blob/master/rewrite/unlockvip.conf)
+
+* [zwf234](https://github.com/zwf234/rules/blob/master/qxrules.conf)
+
+* [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/blob/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf)
