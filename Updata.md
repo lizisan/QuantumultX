@@ -8,7 +8,7 @@
 
 * 增加去YouTube广告重写远程订阅
 
-* 添加Rewrite文件夹，汇总一些作者的Rule和Cookie0地址
+* 添加Rewrite文件夹，汇总一些作者的Rule和Cookie地址
 
 ------------
 
