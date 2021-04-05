@@ -207,18 +207,6 @@
         
         "20 * 0/1 1,8,16,24 * ? https://gitee.com/qq34347476/quantumult-x/raw/master/format_share_jd_code.js, tag=获取并提交助力码, img-url=https://raw.githubusercontent.com/yogayyy/task/master/huzhucode.png, 
         
-        "0 9 * * * https://raw.githubusercontent.com/58xinian/Surge/master/Script/huke.js, tag=虎课网, img-url=https://raw.githubusercontent.com/58xinian/icon/master/huke.png, enabled=true",
-        "30 8-20/1 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png, enabled=true",
-        "15 18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/donate-step.js, tag=捐步数（点击弹窗）, img-url=https://raw.githubusercontent.com/Orz-3/task/master/alipay.png, enabled=true",
-        "3 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/daymatter.js, tag=倒数日, img-url=https://raw.githubusercontent.com/Orz-3/task/master/daysmatter.png, enabled=true",
-        "1 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=工厂商品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true",
-        "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/didi.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=true",
-        "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=true",
-        "0 9,12,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js, tag=京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png, enabled=true",
-        "0 1,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js, tag=京喜工厂plus, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true",
-        "10 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js, tag=京喜工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true",
-        "10 10 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=京喜工厂商品列表详情, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true",
-        
         "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js, tag=全民悦动(查看脚本下载), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X005.png, enabled=true",
         "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族（手机可能不支持，查看阅读说明）, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X004.png, enabled=true",
         "0 0/10 * * * ? https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/duokandian.js, tag=多看点ziye版(查看脚本学用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
