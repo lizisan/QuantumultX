@@ -2,7 +2,7 @@
 
 ### 说明
 
-收集网络上各位作者制作的rewrite脚本，包含Crack、GetCookie、Advertising、Redirect等
+收集网络上各位作者制作的Rewrite脚本，包含Crack、GetCookie、Advertising、Redirect等
 
 ### 使用方法
 
