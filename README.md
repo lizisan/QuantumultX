@@ -49,7 +49,7 @@
 
 ## 更新历史
 
-https://github.com/lizisan/QuantumultX/blob/main/updata.md
+https://github.com/lizisan/QuantumultX/blob/main/UPDATA.md
 
 ## 致谢
 
