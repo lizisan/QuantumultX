@@ -18,7 +18,7 @@
 
 6.刷新后使用
 
-## 订阅地址
+### 订阅地址
 
 * [sngxpro](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json)
 
