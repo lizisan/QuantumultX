@@ -17,11 +17,3 @@
 5.点击“好”
 
 6.刷新后使用
-
-### 作者地址
-
-* [Orz-3](https://github.com/Orz-3/QuantumultX/tree/master/Task)
-
-* [sngxpro](https://github.com/sngxpro/QuanX/blob/master/task/AllinOne.json)
-
-* [zwf234](https://qxzy.top/rules/QuantumultX/qixin.json)
