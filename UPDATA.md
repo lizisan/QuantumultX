@@ -6,6 +6,8 @@
 
 * 增加Task作者订阅地址
 
+* rewrite和filter换回blackmatrix7规则
+
 ## 2021/4/6 变动如下
 
 * 精简配置，去除一些不常用的功能
