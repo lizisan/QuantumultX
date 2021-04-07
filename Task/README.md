@@ -17,3 +17,11 @@
 5.点击“好”
 
 6.刷新后使用
+
+## 订阅地址
+
+* [sngxpro](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json)
+
+* [zwf234](https://raw.githubusercontent.com/zwf234/rules/master/qixin.json)
+
+* [lxk0301](https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301_gallery.json)
