@@ -1,6 +1,6 @@
-if ($response.statusCode != 200) {
-  $done(null);
-}
+//if ($response.statusCode != 200) {
+//  $done(null);
+//}
 
 var city0 = "未知城市";
 var isp0 = "Cross-GFW.org";
