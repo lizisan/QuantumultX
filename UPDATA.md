@@ -8,6 +8,8 @@
 
 * 将geo_location_checker替换为自己写的脚本(修改自[KOP-XIAO](https://github.com/KOP-XIAO)
 
+* 上传了两个机场icon
+
 ## 2021/4/7 变动如下
 
 * 调整部分规则排列顺序，使之更顺眼
