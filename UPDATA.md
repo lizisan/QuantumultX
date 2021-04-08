@@ -2,7 +2,9 @@
 
 ## 2021/4/8 变动如下
 
-* 去除TikTok重写规则，经常失效，有需要的再手动添加
+* 去除TikTok重写规则，经常失效，有需要的自行手动添加
+
+* 将DivineEngine的filter规则全部修改为blackmatrix7的聚合规则
 
 ## 2021/4/7 变动如下
 
@@ -18,7 +20,7 @@
 
 * 暂时去除rewrite模块中sngxpro的unlockvip订阅（不知道为什么会与今日头条冲突，导致今日头条无法刷新，zwf234的已经能覆盖大部分，盲猜不影响使用体验）
 
-* 将blackmatrix7的rewrite和filter规则替换成DivineEngine的，进行统一（虽然少了blackmatrix7的聚合规则，但多几条少几条规则感觉区别不大）
+* 将blackmatrix7的rewrite和filter规则暂时替换成DivineEngine的规则
 
 * 增加Images文件夹，以备将来用到
 
