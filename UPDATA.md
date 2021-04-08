@@ -2,9 +2,11 @@
 
 ## 2021/4/8 变动如下
 
-* 去除TikTok重写规则，经常失效，有需要的自行手动添加
+* 去除TikTok重写规则，经常失效，有需要的请自行手动添加
 
-* 将DivineEngine的filter规则全部修改为blackmatrix7的聚合规则
+* 将[DivineEngine](https://github.com/DivineEngine)的filter规则全部修改为[blackmatrix7](https://github.com/blackmatrix7)的聚合规则
+
+* 将geo_location_checker替换为自己写的脚本(修改自[KOP-XIAO](https://github.com/KOP-XIAO/QuantumultX))
 
 ## 2021/4/7 变动如下
 
@@ -12,7 +14,7 @@
 
 * 增加Task作者订阅地址
 
-* rewrite和filter换回blackmatrix7规则
+* rewrite和部分filter换回[blackmatrix7](https://github.com/blackmatrix7)规则
 
 ## 2021/4/6 变动如下
 
@@ -20,7 +22,7 @@
 
 * 暂时去除rewrite模块中sngxpro的unlockvip订阅（不知道为什么会与今日头条冲突，导致今日头条无法刷新，zwf234的已经能覆盖大部分，盲猜不影响使用体验）
 
-* 将blackmatrix7的rewrite和filter规则暂时替换成DivineEngine的规则
+* 将[blackmatrix7](https://github.com/blackmatrix7)的rewrite和filter规则暂时替换成DivineEngine的规则
 
 * 增加Images文件夹，以备将来用到
 
