@@ -2,7 +2,7 @@
 
 ### 说明
 
-收集网络上各位作者制作的Rewrite脚本，包含Crack、GetCookie、Advertising、Redirect等
+对配置中的Crack、GetCookie、Advertising、Redirect等规则进行补充
 
 ### 使用方法
 
