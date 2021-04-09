@@ -1,5 +1,11 @@
 # 以下是历史更新记录
 
+## 2021/4/9 变动如下
+
+* geo_location_checker忘改了，改一下
+
+* 把[sngxpro](https://github.com/sngxpro)的解锁vip规则加回来，但默认关闭
+
 ## 2021/4/8 变动如下
 
 * 去除TikTok重写规则，经常失效，有需要的请自行手动添加
@@ -22,7 +28,7 @@
 
 * 精简配置，去除一些不常用的功能
 
-* 暂时去除rewrite模块中sngxpro的unlockvip订阅（不知道为什么会与今日头条冲突，导致今日头条无法刷新，zwf234的已经能覆盖大部分，盲猜不影响使用体验）
+* 暂时去除rewrite模块中[sngxpro](https://github.com/sngxpro)的unlockvip订阅（不知道为什么会与今日头条冲突，导致今日头条无法刷新，zwf234的已经能覆盖大部分，盲猜不影响使用体验）
 
 * 将[blackmatrix7](https://github.com/blackmatrix7)的rewrite和filter规则暂时替换成DivineEngine的规则
 
