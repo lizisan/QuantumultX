@@ -6,6 +6,8 @@
 
 * 把[sngxpro](https://github.com/sngxpro)的解锁vip规则加回来，但默认关闭
 
+* 增添补充rewrite配置文件
+
 ## 2021/4/8 变动如下
 
 * 去除TikTok重写规则，经常失效，有需要的请自行手动添加
