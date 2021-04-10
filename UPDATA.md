@@ -8,6 +8,8 @@
 
 * 修正geo_location_checker内部分国家/地区国旗代码错误
 
+* 将addendum重写补充规则拆分
+
 ## 2021/4/9 变动如下
 
 * geo_location_checker忘改了，改一下
