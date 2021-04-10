@@ -4,8 +4,6 @@
 
 * 增加Quantumult X 教程
 
-* 增加网易云音乐解锁灰色歌曲（需安装证书）与TikTok地区解锁
-
 * 修正geo_location_checker内部分国家/地区国旗代码错误
 
 * 将addendum重写补充规则拆分
