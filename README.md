@@ -6,6 +6,8 @@
 
 * [Quantumult X 不完全教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#4cd9bf57eb914320baa0956ee7f50fc0https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#4cd9bf57eb914320baa0956ee7f50fc0)
 
+* [圈X系列教程](https://youtube.com/playlist?list=PLjqZWxLDYP3t12BpTjBvrDCbyJkYNxzwE)
+
 ## 使用说明
 
 ### 一、订阅基础配置
