@@ -2,7 +2,9 @@
 
 ## 2021/4/10 变动如下
 
-* 增加网易云音乐解锁灰色歌曲
+* 增加Quantumult X 教程
+
+* 增加网易云音乐解锁灰色歌曲（需安装证书）
 
 * 修正geo_location_checker内部分国家/地区国旗代码错误
 
@@ -20,7 +22,7 @@
 
 * 将[DivineEngine](https://github.com/DivineEngine)的filter规则全部修改为[blackmatrix7](https://github.com/blackmatrix7)的聚合规则
 
-* 将geo_location_checker替换为自己写的脚本(修改自[KOP-XIAO](https://github.com/KOP-XIAO)
+* 将geo_location_checker替换为自己写的脚本（修改自[KOP-XIAO](https://github.com/KOP-XIAO)）
 
 * 上传了两个机场icon
 
