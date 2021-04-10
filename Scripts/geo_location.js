@@ -36,7 +36,7 @@ var flags = new Map([[ "AC" , "🇦🇨" ] , [ "AF" , "🇦🇫" ] , [ "AI" , "�
 var body = $response.body;
 var obj = JSON.parse(body);
 var title = flags.get(obj['countryCode']) +' '+ Area_check(obj['country']);
-var subtitle = City_ValidCheck(obj['city']) +' '+ ISP_ValidCheck(obj['org']);
+var subtitle = City_ValidCheck(obj['city']) +' '+ ISP_ValidCheck(obj['isp']);
 var ip = obj['query'];
-var description = "国家/地区:" + Area_check(obj['country']) +'\n'+ "国际域名:" + obj['countryCode'] +'\n'+ "省/州/自治区:" + obj['regionName'] +'\n'+ "城市:" + City_ValidCheck(obj['regionName']) +'\n'+ "IP地址:" + obj['query'] +'\n'+ "地理坐标:" + "经度" + obj['lon'] +","+ "纬度" + obj['lat'] +'\n'+ "时区:" + obj['timezone'] +'\n'+ "服务商:" + obj['isp'] +'\n'+ "数据中心:" + obj['org'];
+var description = "国家/地区:" + Area_check(obj['country']) +'\n'+ "国际域名:" + obj['countryCode'] +'\n'+ "省/州/区:" + obj['regionName'] +'\n'+ "城市:" + City_ValidCheck(obj['regionName']) +'\n'+ "IP地址:" + obj['query'] +'\n'+ "地理坐标:" + "经度" + obj['lon'] +","+ "纬度" + obj['lat'] +'\n'+ "时区:" + obj['timezone'] +'\n'+ "服务商:" + ISP_ValidCheck(obj['isp']);
 $done({title, subtitle, ip, description});
