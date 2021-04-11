@@ -1,5 +1,13 @@
 # 以下是历史更新记录
 
+## 20201/4/11 变动如下
+
+* 经过思考，决定放弃[blackmatrix7](https://github.com/blackmatrix7)的聚合规则，误杀现象比较严重，暂时还是不考虑了
+
+* 增加“其余节点”策略，用于汇总其他策略筛选后的
+
+* 更新crack与advertising重写规则
+
 ## 2021/4/10 变动如下
 
 * 增加Quantumult X 教程
