@@ -8,7 +8,7 @@
 
 * 更新crack与advertising重写规则，去除配置中[zwf234](https://github.com/zwf234)的rewrite规则
 
-* 跟随[Orz-3](https://github.com/Orz-3)将解析器地址修改为CDN地址，分流地址修改为神机Surge分流文件
+* 跟随[Orz-3](https://github.com/Orz-3)将解析器地址修改为CDN地址，分流地址修改为[神机](https://github.com/DivineEngine)Surge分流文件
 
 ## 2021/4/10 变动如下
 
