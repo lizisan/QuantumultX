@@ -2,8 +2,18 @@ if ($response.statusCode != 200) {
   $done(null);
 }
 
+var regionName0 = "未知区域";
 var city0 = "未知城市";
 var isp0 = "Cross-GFW.org";
+
+function RegionName_ValidCheck(para) {
+  if(para) {
+  return para
+  } else
+  {
+  return regionName0
+  }
+}
 
 function City_ValidCheck(para) {
   if(para) {
@@ -38,5 +48,5 @@ var obj = JSON.parse(body);
 var title = flags.get(obj['countryCode']) +' '+ Area_check(obj['country']);
 var subtitle = City_ValidCheck(obj['city']) +' '+ ISP_ValidCheck(obj['isp']);
 var ip = obj['query'];
-var description = "国家/地区:" + Area_check(obj['country']) +'\n'+ "国际域名:" + obj['countryCode'] +'\n'+ "省/州/区:" + obj['regionName'] +'\n'+ "城市:" + City_ValidCheck(obj['regionName']) +'\n'+ "IP地址:" + obj['query'] +'\n'+ "地理坐标:" + "经度" + obj['lon'] +","+ "纬度" + obj['lat'] +'\n'+ "时区:" + obj['timezone'] +'\n'+ "服务商:" + ISP_ValidCheck(obj['isp']);
+var description = "国家/地区:" + Area_check(obj['country']) +'\n'+ "国际域名:" + obj['countryCode'] +'\n'+ "省/州/区:" + RegionName_ValidCheck(obj['regionName']) +'\n'+ "城市:" + City_ValidCheck(obj['regionName']) +'\n'+ "IP地址:" + obj['query'] +'\n'+ "地理坐标:" + "经度" + obj['lon'] +","+ "纬度" + obj['lat'] +'\n'+ "时区:" + obj['timezone'] +'\n'+ "服务商:" + ISP_ValidCheck(obj['isp']);
 $done({title, subtitle, ip, description});
