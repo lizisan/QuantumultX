@@ -1,5 +1,9 @@
 # 以下是历史更新记录
 
+## 2021/4/25 变动如下
+
+* 增加Guard策略组，方便在获取cookie时暂时停用去广告filter
+
 ## 2021/4/17 变动如下
 
 * 跟随[神机](https://github.com/DivineEngine)在general下增添规则
