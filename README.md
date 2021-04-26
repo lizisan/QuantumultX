@@ -70,6 +70,8 @@ https://github.com/lizisan/QuantumultX/blob/main/UPDATA.md
   * [zwf234](https://github.com/zwf234)
   
   * [lxk0301](https://gitee.com/lxk0301)
+
+  * [Koolson](https://github.com/Koolson)
   
   * 由于参考或借用上述作者内容而导致直接或间接引用的各位作者大大
 
