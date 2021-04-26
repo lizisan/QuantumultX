@@ -2,7 +2,7 @@
 
 ## 2021/4/25 变动如下
 
-* 增加Guard策略组(感谢[Koolson](https://github.com/Koolson)的图标)，方便在获取cookie时暂时停用去广告filter
+* 增加Guard策略组（感谢[Koolson](https://github.com/Koolson)的图标），方便在获取cookie时暂时停用去广告filter
 
 ## 2021/4/17 变动如下
 
