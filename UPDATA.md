@@ -4,7 +4,7 @@
 
 * 增加网易云音乐策略与TikTok规则
 
-* 在注释中添加[sngxpro](https://github.com/sngxpro)与[zwf234](https://github.com/zwf234)的Task订阅地址
+* 在注释中添加[sngxpro](https://github.com/sngxpro)与[zwf234](https://github.com/zwf234)的task订阅地址
 
 ## 2021/5/8 变动如下
 
