@@ -12,7 +12,9 @@
 
 ### 一、订阅基础配置
 
-1.点击库中的"lizisan.conf"文件(移动端先点View code打开库里的文件列表)，点击"raw"获取真实地址，复制地址备用
+1.点击库中的"[lizisan.conf](https://raw.githubusercontent.com/lizisan/QuantumultX/main/lizisan.conf)"文件(移动端先点View code打开库里的文件列表)，点击"raw"获取真实地址，复制地址备用
+
+或直接复制`https://raw.githubusercontent.com/lizisan/QuantumultX/main/lizisan.conf`进行添加
 
 2.打开Quantumult X，轻点右下角风车图标，打开设置菜单，然后将菜单下拉至最底端，选择“配置文件-下载”
  
@@ -28,7 +30,7 @@
 
 ### 二、订阅任务(task)配置
 
-1.复制你想订阅的task订阅地址(方法同上文，task订阅地址请自行寻找，这里暂不提供)
+1.复制你想订阅的task订阅地址(详见Task文件夹)
 
 2.打开Quantumult X，在设置菜单中找到调试，选择构造请求并进入(也可向左轻滑风车，点击三道杠样式的图标)
 
