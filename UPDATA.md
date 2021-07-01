@@ -1,5 +1,9 @@
 # 以下是历史更新记录
 
+## 2021/07/01 变动如下
+
+* 更新[少年歌行pro](https://github.com/Youthsongs/QuanX)地址
+
 ## 2021/06/29 变动如下
 
 * [sngxpro](https://github.com/sngxpro)删库，去除相关信息
