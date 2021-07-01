@@ -73,7 +73,7 @@ https://github.com/lizisan/QuantumultX/blob/main/UPDATA.md
   
   * 由于参考或借用上述作者内容而导致直接或间接引用的各位作者
 
-  注：以上排名不分先后
+    注：以上排名不分先后
 
 
 ## 免责声明：
