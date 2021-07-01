@@ -20,4 +20,14 @@
 
 ### 订阅地址
 
-请自行查找添加
+推荐使用：
+
+少年歌行pro
+
+`https://raw.githubusercontent.com/Youthsongs/QuanX/master/task/AllinOne.json`
+
+奇心
+
+`https://qxzy.top/rules/QuantumultX/qixin.json`
+
+注：如有特殊需要，请自行查找添加
