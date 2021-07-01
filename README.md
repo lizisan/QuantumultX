@@ -55,15 +55,13 @@ https://github.com/lizisan/QuantumultX/blob/main/UPDATA.md
 
 ## 致谢
 
-  * [crossutility](https://github.com/crossutility)
-
   * [KOP-XIAO](https://github.com/KOP-XIAO)
 
-  * [Orz-3](https://github.com/Orz-3)
+  * [契阔](https://github.com/Orz-3)
 
-  * [sngxpro](https://github.com/sngxpro)
+  * [少年歌行pro](https://github.com)
 
-  * [DivineEngine](https://github.com/DivineEngine)
+  * [神机](https://github.com/DivineEngine)
   
   * [blackmatrix7](https://github.com/blackmatrix7)
   
