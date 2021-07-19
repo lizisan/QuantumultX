@@ -8,7 +8,7 @@
 
 ## 2021/07/01 变动如下
 
-* 更新[少年歌行pro](https://github.com/Youthsongs/QuanX)地址
+* 更新[少年歌行pro](https://github.com/Youthsongs/QuanX)地址（地址已失效）
 
 ## 2021/06/29 变动如下
 
@@ -49,7 +49,7 @@
 
 * 增加网易云音乐策略与TikTok规则
 
-* 在注释中添加[少年歌行pro](https://github.com/sngxpro)与[奇心](https://github.com/zwf234)的task订阅地址
+* 在注释中添加[少年歌行pro](https://github.com/sngxpro)与[奇心](https://github.com/zwf234)的task订阅地址（地址已失效）
 
 ## 2021/05/08 变动如下
 
@@ -101,7 +101,7 @@
 
 * geo_location_checker忘改了，改一下
 
-* 把[少年歌行pro](https://github.com/sngxpro)的解锁vip规则加回来，但默认关闭
+* 把[少年歌行pro](https://github.com/sngxpro)的解锁vip规则加回来，但默认关闭（地址已失效）
 
 * 增添补充rewrite配置文件
 
@@ -127,7 +127,7 @@
 
 * 精简配置，去除一些不常用的功能
 
-* 暂时去除rewrite模块中[少年歌行pro](https://github.com/sngxpro)的unlockvip订阅（不知道为什么会与今日头条冲突，导致今日头条无法刷新，zwf234的已经能覆盖大部分，盲猜不影响使用体验）
+* 暂时去除rewrite模块中[少年歌行pro](https://github.com/sngxpro)的unlockvip订阅（不知道为什么会与今日头条冲突，导致今日头条无法刷新，zwf234的已经能覆盖大部分，盲猜不影响使用体验）（地址已失效）
 
 * 将[blackmatrix7](https://github.com/blackmatrix7)的rewrite和filter规则暂时替换成DivineEngine的规则
 
@@ -163,4 +163,4 @@
 
 * 开始创建QuantumultX仓库
 
-* 以[Orz-3](https://github.com/Orz-3)的小白配置为基础，结合[少年歌行pro](https://github.com/sngxpro)的懒人配置进行修改
+* 以[Orz-3](https://github.com/Orz-3)的小白配置为基础，结合[少年歌行pro](https://github.com/sngxpro)的懒人配置（地址已失效）进行修改
