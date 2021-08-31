@@ -1,5 +1,10 @@
 # 以下是历史更新记录
 
+## 2021/08/31 变动如下
+
+* 删除部分注释内容
+
+
 ## 2021/08/27 变动如下
 
 * 跟随神机[https://github.com/DivineEngine/Profiles/tree/master]规则修改
